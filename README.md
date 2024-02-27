@@ -13,4 +13,4 @@ This Mental Health Database System is a Windows application designed to manage a
 - **Account Login Page**: Secure login system for patients and doctors to access their respective accounts and sensitive information.
 
 ## Preview of Home Screen
-![image](https://github.com/ZainabbHaider/Mental-Health-Database/assets/89449023/67ca0b03-ada4-41ff-be4f-3e61f01f8916)
+![image](https://github.com/ZainabbHaider/Mental-Health-Database/assets/89449023/a3b4b2d2-4141-44c3-99e7-00847a70f3ec)
